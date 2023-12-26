@@ -1,0 +1,91 @@
+*{
+	margin:0;
+}
+.container{
+	text-align: center;
+	width: 100%;
+}
+.head
+{
+	background-color: black;
+	color:white;
+	}
+.head,ul{
+	
+	text-align:center;
+	padding:10px;
+}
+li
+{
+	margin-bottom:5px;
+	display:inline;
+	color:gray;
+	cursor:pointer;
+}
+li:hover
+{
+	color:white;
+	
+}
+.item
+{
+	padding:5px;
+	background-color:white;
+}
+.box
+{
+	margin:1px;
+	text-align: center;
+	background-color:white;
+	width:160px;
+	color:black;
+	display:inline-block;
+	border:2px;
+	border-style:solid;
+	
+}
+img{
+	height:250px;
+	width:160px;
+	padding-bottom: 10px;
+	cursor:pointer;
+}
+.item_desc{
+	background-color:white;color:black;
+}
+.contactus
+	{
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding:15px;
+}
+table{
+	text-align: center;
+	display: inline-block;
+	color: white;
+	padding: 10px;
+}
+#submit
+{
+	background-color:yellow;
+	color:black;
+	width: 400px;
+	/* margin: 5px; */
+	padding:4px;
+	
+} 
+.btn
+{
+	background-color:black;
+	color:white;
+	padding:10px;
+	border:3px;
+	border-radius:5px;
+}
+.btn:hover
+{
+	background-color:black;
+	color:yellowgreen;
+	font-weight: bolder;
+}
